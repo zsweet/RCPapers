@@ -43,7 +43,7 @@ Contributed by [Yankai Lin](http://www.thunlp.org/~lyk/), Deming Ye and Haozhe J
 26. **A Multi-Stage Memory Augmented Neural Networkfor Machine Reading Comprehension.** Seunghak Yu, Sathish Indurthi, Seohyun Back, and Haejun Lee. ACL 2018 workshop. [paper](http://aclweb.org/anthology/W18-2603)
 27. **S-NET: From Answer Extraction to Answer Generation for Machine Reading Comprehension.** Chuanqi Tan, Furu Wei, Nan Yang, Bowen Du, Weifeng Lv, and  Ming Zhou. AAAI2018. [paper](https://arxiv.org/abs/1706.04815)
 28. **Ask the Right Questions: Active Question Reformulation with Reinforcement Learning.** Christian Buck, Jannis Bulian, Massimiliano Ciaramita, Wojciech Gajewski, Andrea Gesmundo, Neil Houlsby, and Wei Wang. ICLR2018. [paper](https://arxiv.org/abs/1705.07830)
-29. **QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension.** Adams Wei Yu, David Dohan, Minh-Thang Luong, Rui Zhao, Kai Chen, Mohammad Norouzi, and Quoc V. Le. ICLR2018. [paper](https://arxiv.org/abs/1804.09541)     <font color=red>**Reading Over**</font>
+29. **QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension.** Adams Wei Yu, David Dohan, Minh-Thang Luong, Rui Zhao, Kai Chen, Mohammad Norouzi, and Quoc V. Le. ICLR2018. [paper](https://arxiv.org/abs/1804.09541)     <font color=#0099ff>**Reading Over**</font>
 30. **Read + Verify: Machine Reading Comprehension with Unanswerable Questions.** Minghao Hu, Furu Wei, Yuxing Peng, Zhen Huang, Nan Yang, and Ming Zhou. AAAI2019. [paper](https://arxiv.org/abs/1808.05759)
 
 
