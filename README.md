@@ -95,5 +95,5 @@ Tomáš Kočiský, Jonathan Schwarz, Phil Blunsom, Chris Dyer, Karl Moritz Herma
 19. (DuoRC) **DuoRC: Towards Complex Language Understanding with Paraphrased Reading Comprehension.** Amrita Saha, Rahul Aralikatte, Mitesh M. Khapra, and Karthik Sankaranarayanan. ACL 2018. [paper](http://aclweb.org/anthology/P18-1156)
 20. (CLOTH) **Large-scale Cloze Test Dataset Created by Teachers.** Qizhe Xie, Guokun Lai, Zihang Dai, and Eduard Hovy. EMNLP 2018. [paper](https://arxiv.org/pdf/1711.03225)
 21. (DuReader) **DuReader: a Chinese Machine Reading Comprehension Dataset from   
-Real-world Applications.** Wei He, Kai Liu, Yajuan Lyu, Shiqi Zhao, Xinyan Xiao, Yuan Liu, Yizhong Wang, Hua Wu, Qiaoqiao She, Xuan Liu, Tian Wu, and Haifeng Wang. ACL 2018 Workshop. [paper](https://arxiv.org/abs/1711.05073)      <font color=red>**Reading Over**</font>
+Real-world Applications.** Wei He, Kai Liu, Yajuan Lyu, Shiqi Zhao, Xinyan Xiao, Yuan Liu, Yizhong Wang, Hua Wu, Qiaoqiao She, Xuan Liu, Tian Wu, and Haifeng Wang. ACL 2018 Workshop. [paper](https://arxiv.org/abs/1711.05073)      <font color=#0099ff size=7>**Reading Over**</font>
 22. (CliCR) **CliCR: a Dataset of Clinical Case Reports for Machine Reading Comprehension.** Simon Suster and Walter Daelemans. NAACL 2018. [paper](http://aclweb.org/anthology/N18-1140) 
