@@ -16,8 +16,8 @@ Contributed by [Yankai Lin](http://www.thunlp.org/~lyk/), Deming Ye and Haozhe J
 7. **Multi-Perspective Context Matching for Machine Comprehension.** Zhiguo Wang, Haitao Mi, Wael Hamza, and Radu Florian. arXiv preprint arXiv:1612.04211. [paper](https://arxiv.org/pdf/1612.04211)
 5. **Natural Language Comprehension with the Epireader.** Adam Trischler, Zheng Ye, Xingdi Yuan, and Kaheer Suleman. EMNLP 2016. [paper](https://www.aclweb.org/anthology/D16-1013)
 6. **Iterative Alternating Neural Attention for Machine Reading.** Alessandro Sordoni, Philip Bachman, Adam Trischler, and Yoshua Bengio. arXiv preprint arXiv:1606.02245 (2016). [paper](https://arxiv.org/pdf/1606.02245)
-7. **Bidirectional Attention Flow for Machine Comprehension.** Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi, and Hannaneh Hajishirzi. ICLR 2017. [paper](https://arxiv.org/pdf/1611.01603.pdf)
-8. **Machine Comprehension Using Match-lstm and Answer Pointer.** Shuohang Wang and Jing Jiang. arXiv preprint arXiv:1608.07905 (2016). [paper](https://arxiv.org/pdf/1608.07905)
+7. **Bidirectional Attention Flow for Machine Comprehension.** Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi, and Hannaneh Hajishirzi. ICLR 2017. [paper](https://arxiv.org/pdf/1611.01603.pdf)    <font color=red>**Reading Over**</font>
+8. **Machine Comprehension Using Match-lstm and Answer Pointer.** Shuohang Wang and Jing Jiang. arXiv preprint arXiv:1608.07905 (2016). [paper](https://arxiv.org/pdf/1608.07905)   <font color=red>**Reading Over**</font>
 9. **Gated Self-matching Networks for Reading Comprehension and Question Answering.** Wenhui Wang, Nan Yang, Furu Wei, Baobao Chang, and Ming Zhou.  ACL 2017. [paper](http://www.aclweb.org/anthology/P17-1018)
 10. **Attention-over-attention Neural Networks for Reading Comprehension.**  Yiming Cui, Zhipeng Chen, Si Wei, Shijin Wang, Ting Liu, and Guoping Hu. ACL 2017. [paper](http://aclweb.org/anthology/P17-1055)
 11. **Gated-attention Readers for Text Comprehension.** Bhuwan Dhingra, Hanxiao Liu, Zhilin Yang, William W. Cohen, and Ruslan Salakhutdinov. ACL 2017. [paper](http://aclweb.org/anthology/P17-1168)
@@ -43,7 +43,7 @@ Contributed by [Yankai Lin](http://www.thunlp.org/~lyk/), Deming Ye and Haozhe J
 26. **A Multi-Stage Memory Augmented Neural Networkfor Machine Reading Comprehension.** Seunghak Yu, Sathish Indurthi, Seohyun Back, and Haejun Lee. ACL 2018 workshop. [paper](http://aclweb.org/anthology/W18-2603)
 27. **S-NET: From Answer Extraction to Answer Generation for Machine Reading Comprehension.** Chuanqi Tan, Furu Wei, Nan Yang, Bowen Du, Weifeng Lv, and  Ming Zhou. AAAI2018. [paper](https://arxiv.org/abs/1706.04815)
 28. **Ask the Right Questions: Active Question Reformulation with Reinforcement Learning.** Christian Buck, Jannis Bulian, Massimiliano Ciaramita, Wojciech Gajewski, Andrea Gesmundo, Neil Houlsby, and Wei Wang. ICLR2018. [paper](https://arxiv.org/abs/1705.07830)
-29. **QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension.** Adams Wei Yu, David Dohan, Minh-Thang Luong, Rui Zhao, Kai Chen, Mohammad Norouzi, and Quoc V. Le. ICLR2018. [paper](https://arxiv.org/abs/1804.09541)
+29. **QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension.** Adams Wei Yu, David Dohan, Minh-Thang Luong, Rui Zhao, Kai Chen, Mohammad Norouzi, and Quoc V. Le. ICLR2018. [paper](https://arxiv.org/abs/1804.09541)     <font color=red>**Reading Over**</font>
 30. **Read + Verify: Machine Reading Comprehension with Unanswerable Questions.** Minghao Hu, Furu Wei, Yuxing Peng, Zhen Huang, Nan Yang, and Ming Zhou. AAAI2019. [paper](https://arxiv.org/abs/1808.05759)
 
 
@@ -94,6 +94,6 @@ Matthew Dunn, Levent Sagun, Mike Higgins, V. Ugur Guney, Volkan Cirik, and Kyung
 Tomáš Kočiský, Jonathan Schwarz, Phil Blunsom, Chris Dyer, Karl Moritz Hermann, Gábor Melis, and Edward Grefenstette. TACL 2018. [paper](http://aclweb.org/anthology/Q18-1023)
 19. (DuoRC) **DuoRC: Towards Complex Language Understanding with Paraphrased Reading Comprehension.** Amrita Saha, Rahul Aralikatte, Mitesh M. Khapra, and Karthik Sankaranarayanan. ACL 2018. [paper](http://aclweb.org/anthology/P18-1156)
 20. (CLOTH) **Large-scale Cloze Test Dataset Created by Teachers.** Qizhe Xie, Guokun Lai, Zihang Dai, and Eduard Hovy. EMNLP 2018. [paper](https://arxiv.org/pdf/1711.03225)
-21. (DuReader) **DuReader: a Chinese Machine Reading Comprehension Dataset from
-Real-world Applications.** Wei He, Kai Liu, Yajuan Lyu, Shiqi Zhao, Xinyan Xiao, Yuan Liu, Yizhong Wang, Hua Wu, Qiaoqiao She, Xuan Liu, Tian Wu, and Haifeng Wang. ACL 2018 Workshop. [paper](https://arxiv.org/abs/1711.05073)
+21. (DuReader) **DuReader: a Chinese Machine Reading Comprehension Dataset from   
+Real-world Applications.** Wei He, Kai Liu, Yajuan Lyu, Shiqi Zhao, Xinyan Xiao, Yuan Liu, Yizhong Wang, Hua Wu, Qiaoqiao She, Xuan Liu, Tian Wu, and Haifeng Wang. ACL 2018 Workshop. [paper](https://arxiv.org/abs/1711.05073)      <font color=red>**Reading Over**</font>
 22. (CliCR) **CliCR: a Dataset of Clinical Case Reports for Machine Reading Comprehension.** Simon Suster and Walter Daelemans. NAACL 2018. [paper](http://aclweb.org/anthology/N18-1140) 
